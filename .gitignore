@@ -1,0 +1,7 @@
+*.o
+*.gcda
+*.gcno
+testrunner
+coverage
+coverage.info
+.gdbinit
