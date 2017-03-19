@@ -28,6 +28,7 @@
 #include <limits>
 #include <ostream>
 #include <stdexcept>
+#include <string>
 #include <cassert>
 
 namespace backport
