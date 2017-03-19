@@ -1,5 +1,5 @@
-#ifndef __BACKPORT__CPP11__STRING_VIEW__HPP__
-#define __BACKPORT__CPP11__STRING_VIEW__HPP__
+#ifndef BACKPORT__CPP11__STRING_VIEW__HPP
+#define BACKPORT__CPP11__STRING_VIEW__HPP
 
 /// MIT License
 ///
@@ -28,7 +28,6 @@
 #include <limits>
 #include <ostream>
 #include <stdexcept>
-#include <string>
 #include <cassert>
 
 namespace backport
